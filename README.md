@@ -68,3 +68,5 @@ streamlit run dashboard/app.py
 **Your Name**
 - GitHub: [@your-username](https://github.com/your-username)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+# retail-sales-data-analysis
+End-to-end data analytics project on retail store sales
